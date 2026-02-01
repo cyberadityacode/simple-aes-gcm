@@ -9,7 +9,7 @@ https://www.npmjs.com/package/@cyberadityacode/simple-aes-gcm
 ## Installation
 
 ```bash
-npm install simple-aes-gcm
+npm i @cyberadityacode/simple-aes-gcm
 ```
 
 ## Usage
