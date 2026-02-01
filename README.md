@@ -1,19 +1,24 @@
 # AES-GCM Crypto Library
 
-A simple, lightweight wrapper for the Web Crypto API.
+A simple, lightweight wrapper for the Web Crypto API. Intended for Browser/Web Crypto API environments
 
 ## Installation
 
 ```bash
-npm install your-package-name
+npm install simple-aes-gcm
 ```
 
 ## Usage
 
 ```javascript
-import { deriveKey, encrypt, decrypt } from "your-package-name";
+import { deriveKey, encrypt, decrypt } from "simple-aes-gcm";
 
 const key = await deriveKey("my-password", "unique-salt");
 const encrypted = await encrypt("Hello World", key);
 const originalText = await decrypt(encrypted, key);
 ```
+
+## Author
+
+Aditya Dubey
+(cyberadityacode)
