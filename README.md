@@ -2,6 +2,10 @@
 
 A simple, lightweight wrapper for the Web Crypto API. Intended for Browser/Web Crypto API environments
 
+## npm : 
+
+https://www.npmjs.com/package/@cyberadityacode/simple-aes-gcm
+
 ## Installation
 
 ```bash
