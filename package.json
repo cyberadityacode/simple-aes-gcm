@@ -1,5 +1,5 @@
 {
-  "name": "simple-aes-gcm",
+  "name": "@cyberadityacode/simple-aes-gcm",
   "version": "1.0.0",
   "description": "A lightweight AES-GCM encryption library for the browser.",
   "main": "src/index.js",
