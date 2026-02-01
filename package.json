@@ -1,6 +1,6 @@
 {
   "name": "@cyberadityacode/simple-aes-gcm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight AES-GCM encryption library for the browser.",
   "main": "src/index.js",
   "type": "module",
@@ -10,7 +10,11 @@
   "scripts": {
     "test": "node --test tests/"
   },
-  "keywords": ["crypto", "aes-gcm", "encryption"],
+  "keywords": [
+    "crypto",
+    "aes-gcm",
+    "encryption"
+  ],
   "author": "Aditya Dubey",
   "license": "MIT"
 }
