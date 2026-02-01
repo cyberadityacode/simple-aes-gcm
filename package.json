@@ -1,0 +1,13 @@
+{
+  "name": "simple-aes-gcm",
+  "version": "1.0.0",
+  "description": "A lightweight AES-GCM encryption library for the browser.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["crypto", "aes-gcm", "encryption"],
+  "author": "Aditya Dubey",
+  "license": "MIT"
+}
